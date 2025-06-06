@@ -1,4 +1,4 @@
-name: Compile pycdc for Windows & Linux
+name: Compile pycdc for Windows & Linux1
 on: workflow_dispatch
 
 jobs:
